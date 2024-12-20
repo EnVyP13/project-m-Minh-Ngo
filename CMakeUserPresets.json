@@ -1,0 +1,12 @@
+{
+    "configurePresets": [
+        {
+            "name": "default",
+            "inherits": "vcpkg",
+            "environment": {
+                "VCPKG_ROOT": "C:/Users/envyp/vcpkg"
+            }
+        }
+    ],
+    "version": 2
+}
